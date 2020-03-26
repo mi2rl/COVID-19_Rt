@@ -16,7 +16,7 @@ Automated updated web page : http://covid19.mi2rl.co/
 
 <img src="./imgs/siteimage.jpg" />
 
-Abstract
+<b>Abstract</b>
 
 Recently (2019-03-19), the number of confirmed patients of COVID-19 in South Korea are decreasing. However, super cluster caused by Sincheonji-cult mass infection incidence in Daegu area, makes it difficult to evaluate that the current policy for infection prevision with social distancing, closing school, hand washing, and wearing mask is good enough or not. Therefore, in this study, we evaluated basic reproduction number R0 and time-dependent reproduction number Rt of confirmed patients based on various kinds of populations including total, Daegu-Geyoengbuk, except-Daegu-Gyeongbuk, Sincheonji, and except-Sincheonji, which leads to conclusion that in total, it seems the disease is going to be under control, but it is never true, because if we analyze except-Sincheonji and except-Daegu-Geyongbuk cases, the basic reproduction rate is still above 1.0, and the effective reproduction rate Rt is still higher than 1.0. In addition, we deployed this method in the home page(http://covid19.mi2rl.co/) to identify realtime update of each local province. This could be used for determining the government policy in near future. 
 
