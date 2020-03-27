@@ -21,5 +21,7 @@
 
 
 medRxiv 논문 : https://www.medrxiv.org/content/10.1101/2020.03.19.20039347v
+
 실시간 업데이트 싸이트 : http://covid19.mi2rl.co/
+
 github 공개 싸이트: https://github.com/mi2rl/COVID-19_Rt/blob/master/README.md
