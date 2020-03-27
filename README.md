@@ -1,4 +1,4 @@
-<center><img src="./imgs/MI2RL_logo.png"></center>
+<center><img src="./imgs/MI2RL_logo_mask.png"></center>
 
 
 
